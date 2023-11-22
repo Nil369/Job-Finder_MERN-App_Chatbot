@@ -1,11 +1,14 @@
 # MERN JOB-FINDER Chatbot APP:
 
 This is a MERN based chatbot jobfinder app.It's front end is developed using:
-`1. React.js
+
+
+```
+ 1. React.js
  2. Vite
  3. headless ui
  4. tailwind css
-`
+```
 It's backend & Chatbot are in development right now 😁
 
 # Demo Images of FrontEnd the app : 
